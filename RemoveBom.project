@@ -87,7 +87,5 @@
       </Completion>
     </Configuration>
   </Settings>
-  <VirtualDirectory Name="src">
-    <File Name="RemoveBom.cpp"/>
-  </VirtualDirectory>
+  <VirtualDirectory Name="src"/>
 </CodeLite_Project>
